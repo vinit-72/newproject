@@ -12,5 +12,5 @@ int main(){
         result+=v1[i]*v2[i];
     }
     cout<<"answer:"<<result<<endl;
- 	cout<<"hi"<<endl;   
+ 	cout<<"modified"<<endl;   
 }
