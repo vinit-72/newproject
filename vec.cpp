@@ -13,6 +13,7 @@ int main(){
     }
     cout<<"answer:"<<result<<endl;
  	cout<<"modified"<<endl;
+    cout<<"no";
     return 0;
 
 }
